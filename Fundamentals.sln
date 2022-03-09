@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "Mul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication 2.0", "Multiplication 2.0\Multiplication 2.0.csproj", "{6859A74E-6CDF-46AD-BBC8-765CCED7014D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Number", "Even Number\Even Number.csproj", "{0A5E6B82-F137-44CA-96BD-2CD260398FE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{6859A74E-6CDF-46AD-BBC8-765CCED7014D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6859A74E-6CDF-46AD-BBC8-765CCED7014D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6859A74E-6CDF-46AD-BBC8-765CCED7014D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5E6B82-F137-44CA-96BD-2CD260398FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5E6B82-F137-44CA-96BD-2CD260398FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5E6B82-F137-44CA-96BD-2CD260398FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5E6B82-F137-44CA-96BD-2CD260398FE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
