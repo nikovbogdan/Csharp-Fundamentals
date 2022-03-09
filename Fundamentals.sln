@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatre Promotions", "Theat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert meters to Kilometers", "Convert meters to Kilometers\Convert meters to Kilometers.csproj", "{CF316FBE-93B0-4E48-9140-A74439EFA97E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible by 3", "Divisible by 3\Divisible by 3.csproj", "{70AF7F9F-CF40-4824-B1FE-B9911778E821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{CF316FBE-93B0-4E48-9140-A74439EFA97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF316FBE-93B0-4E48-9140-A74439EFA97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF316FBE-93B0-4E48-9140-A74439EFA97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AF7F9F-CF40-4824-B1FE-B9911778E821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AF7F9F-CF40-4824-B1FE-B9911778E821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AF7F9F-CF40-4824-B1FE-B9911778E821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AF7F9F-CF40-4824-B1FE-B9911778E821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
