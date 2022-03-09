@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert meters to Kilometer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible by 3", "Divisible by 3\Divisible by 3.csproj", "{70AF7F9F-CF40-4824-B1FE-B9911778E821}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Odd Numbers", "Sum of Odd Numbers\Sum of Odd Numbers.csproj", "{F3140464-C888-4017-9011-40A3F8F0C509}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{70AF7F9F-CF40-4824-B1FE-B9911778E821}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70AF7F9F-CF40-4824-B1FE-B9911778E821}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70AF7F9F-CF40-4824-B1FE-B9911778E821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3140464-C888-4017-9011-40A3F8F0C509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3140464-C888-4017-9011-40A3F8F0C509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3140464-C888-4017-9011-40A3F8F0C509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3140464-C888-4017-9011-40A3F8F0C509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
