@@ -61,17 +61,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foreign Languages", "Foreig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatre Promotions", "Theatre Promotions\Theatre Promotions.csproj", "{30028717-A775-4BB0-8736-306A32ABE0D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert meters to Kilometers", "Convert meters to Kilometers\Convert meters to Kilometers.csproj", "{CF316FBE-93B0-4E48-9140-A74439EFA97E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert meters to Kilometers", "Convert meters to Kilometers\Convert meters to Kilometers.csproj", "{CF316FBE-93B0-4E48-9140-A74439EFA97E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible by 3", "Divisible by 3\Divisible by 3.csproj", "{70AF7F9F-CF40-4824-B1FE-B9911778E821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divisible by 3", "Divisible by 3\Divisible by 3.csproj", "{70AF7F9F-CF40-4824-B1FE-B9911778E821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Odd Numbers", "Sum of Odd Numbers\Sum of Odd Numbers.csproj", "{F3140464-C888-4017-9011-40A3F8F0C509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of Odd Numbers", "Sum of Odd Numbers\Sum of Odd Numbers.csproj", "{F3140464-C888-4017-9011-40A3F8F0C509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{A870D107-0F18-4DE5-9FEA-D42E706A575F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{A870D107-0F18-4DE5-9FEA-D42E706A575F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication 2.0", "Multiplication 2.0\Multiplication 2.0.csproj", "{6859A74E-6CDF-46AD-BBC8-765CCED7014D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication 2.0", "Multiplication 2.0\Multiplication 2.0.csproj", "{6859A74E-6CDF-46AD-BBC8-765CCED7014D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Number", "Even Number\Even Number.csproj", "{0A5E6B82-F137-44CA-96BD-2CD260398FE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even Number", "Even Number\Even Number.csproj", "{0A5E6B82-F137-44CA-96BD-2CD260398FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debug The Code", "Debug The Code\Debug The Code.csproj", "{57EA3451-3CF8-46F8-8D7D-0BC935E54594}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{0A5E6B82-F137-44CA-96BD-2CD260398FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A5E6B82-F137-44CA-96BD-2CD260398FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A5E6B82-F137-44CA-96BD-2CD260398FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EA3451-3CF8-46F8-8D7D-0BC935E54594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EA3451-3CF8-46F8-8D7D-0BC935E54594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EA3451-3CF8-46F8-8D7D-0BC935E54594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EA3451-3CF8-46F8-8D7D-0BC935E54594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
