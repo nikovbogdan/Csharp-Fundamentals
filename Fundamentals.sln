@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication 2.0", "Multi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even Number", "Even Number\Even Number.csproj", "{0A5E6B82-F137-44CA-96BD-2CD260398FE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debug The Code", "Debug The Code\Debug The Code.csproj", "{57EA3451-3CF8-46F8-8D7D-0BC935E54594}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debug The Code", "Debug The Code\Debug The Code.csproj", "{57EA3451-3CF8-46F8-8D7D-0BC935E54594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pounds to Dollars", "Pounds to Dollars\Pounds to Dollars.csproj", "{A88CB5E8-3D0E-4B86-A273-673C61B1F295}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{57EA3451-3CF8-46F8-8D7D-0BC935E54594}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57EA3451-3CF8-46F8-8D7D-0BC935E54594}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57EA3451-3CF8-46F8-8D7D-0BC935E54594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88CB5E8-3D0E-4B86-A273-673C61B1F295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88CB5E8-3D0E-4B86-A273-673C61B1F295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88CB5E8-3D0E-4B86-A273-673C61B1F295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88CB5E8-3D0E-4B86-A273-673C61B1F295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
