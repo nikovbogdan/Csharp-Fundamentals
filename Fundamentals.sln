@@ -99,6 +99,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "From Left to the Right", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floating Equality", "Floating Equality\Floating Equality.csproj", "{B009E927-A76F-4B12-8627-6A74F3BEA937}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decrypting Messages", "Decrypting Messages\Decrypting Messages.csproj", "{10FED256-2468-4107-ADFF-57B76A8968B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{B009E927-A76F-4B12-8627-6A74F3BEA937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B009E927-A76F-4B12-8627-6A74F3BEA937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B009E927-A76F-4B12-8627-6A74F3BEA937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FED256-2468-4107-ADFF-57B76A8968B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FED256-2468-4107-ADFF-57B76A8968B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FED256-2468-4107-ADFF-57B76A8968B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FED256-2468-4107-ADFF-57B76A8968B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
