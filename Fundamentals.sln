@@ -97,9 +97,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Type Finder", "Data Ty
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "From Left to the Right", "From Left to the Right\From Left to the Right.csproj", "{29351B97-E17C-4401-827E-640FFBD2C50F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floating Equality", "Floating Equality\Floating Equality.csproj", "{B009E927-A76F-4B12-8627-6A74F3BEA937}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Floating Equality", "Floating Equality\Floating Equality.csproj", "{B009E927-A76F-4B12-8627-6A74F3BEA937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decrypting Messages", "Decrypting Messages\Decrypting Messages.csproj", "{10FED256-2468-4107-ADFF-57B76A8968B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decrypting Messages", "Decrypting Messages\Decrypting Messages.csproj", "{10FED256-2468-4107-ADFF-57B76A8968B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Brackets", "Balanced Brackets\Balanced Brackets.csproj", "{9FF8A58B-0D60-4D1B-9A6B-6EB999B2A686}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{10FED256-2468-4107-ADFF-57B76A8968B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10FED256-2468-4107-ADFF-57B76A8968B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10FED256-2468-4107-ADFF-57B76A8968B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF8A58B-0D60-4D1B-9A6B-6EB999B2A686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF8A58B-0D60-4D1B-9A6B-6EB999B2A686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF8A58B-0D60-4D1B-9A6B-6EB999B2A686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF8A58B-0D60-4D1B-9A6B-6EB999B2A686}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
